@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index 'mongodb+srv://crispim224977:railane00@cluster0.mbqj1s0.mongodb.net/tarefaDB?retryWrites=true&w=majority'"
   },
   "author": "",
   "license": "ISC",
